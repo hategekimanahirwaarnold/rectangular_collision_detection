@@ -1,4 +1,4 @@
-# Rectangle Collision Detection
+# Rectangular Collision Detection
 
 This project aims to detect when two rectangles collide. With this knowledge,
 one can perform intricate reactions based on collision of such shapes, which is
